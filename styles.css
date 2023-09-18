@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  background-color: #ecfcff;
+}
+
+section {
+  background-color: #fffed7;
+  padding: 15px;
+  width: 571px;
+  height: auto;
+  margin: auto;
+  border-radius: 12px;
+}
+.header {
+  padding: 15px;
+  display: inline;
+}
+div.header h2 {
+  margin: 0;
+  padding-left: 10px;
+  color: #000000;
+}
+
+.postbox {
+  background-color: #ffffff;
+  width: 570px;
+  height: auto;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border-radius: 12px;
+}
+img {
+  width: 100%;
+}
+div.description {
+  padding: 15px;
+}
